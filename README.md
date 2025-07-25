@@ -1,3 +1,17 @@
+# DATA-SCIENCE-PROJECT TASK-1
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+ *NAME*: AKSHAT JAIN
+
+*INTERN ID*: CT04DH1930
+
+*DOMAIN*: DATA SCIENCE
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: 
+
 # 🛠️ Data Preprocessing Pipeline using Pandas & Scikit-Learn
 
 ## ✅ Task Overview
