@@ -113,3 +113,7 @@ The transformed data will be saved as processed_data.csv in your workspace.
 📊 Conclusion
 This project represents a solid foundation in data preprocessing and pipeline creation using industry-standard tools. It emphasizes clean code, scalability, and practical skills needed in real data science workflows. By automating key data handling steps, this pipeline serves as a template for future projects requiring data cleaning and transformation.
 
+#Before running code: <img width="1919" height="877" alt="Image" src="https://github.com/user-attachments/assets/f4e861d1-08c0-45dc-8e5a-100ee2080453" />
+
+#After running code:" <img width="1919" height="881" alt="Image" src="https://github.com/user-attachments/assets/24529288-2d4b-437d-a374-81309f90f636" />
+<img width="1919" height="876" alt="Image" src="https://github.com/user-attachments/assets/803f4ff1-71e4-47ca-b6f0-b84decadd5ec" /> ""
