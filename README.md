@@ -10,7 +10,7 @@
 
 *DURATION*: 4 WEEKS
 
-*MENTOR*: 
+*MENTOR*: NEELA SANTHOSH
 
 🛠️ Data Preprocessing Pipeline using Pandas & Scikit-Learn
 ✅ Task Overview
